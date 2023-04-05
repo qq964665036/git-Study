@@ -15,5 +15,7 @@ public class Student {
     private String name;
     private int age;
     private Teacher teacher;
-    private String Testaaa;
+    private String testaaa;
+    private String branchTttt;//hahahah 测试的分支
+
 }
